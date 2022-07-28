@@ -8,6 +8,7 @@ La Aplicacion fue desplegada en:
 -Github Pages.      
 
 Este trabajo fue realizado por estudiantes de ingenieria de sistemas:
+
 Nicolás Mahecha Pérez.
 Dayana Alejandra González Arevalo.
 
