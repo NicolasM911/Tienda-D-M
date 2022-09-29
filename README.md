@@ -4,7 +4,7 @@ Ejercicio tienda online para Web, en este caso una tienda de productos tecnologi
 
 La Aplicacion fue desplegada en:
 
--Netlify        -  https://tienda-u-nicolas-alejandra.netlify.app/
+-Netlify        -  https://nicolasm911.github.io/Tienda-D-M/
 -Github Pages.      
 
 Este trabajo fue realizado por estudiantes de ingenieria de sistemas:
